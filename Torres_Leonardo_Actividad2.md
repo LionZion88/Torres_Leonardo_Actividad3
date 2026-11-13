@@ -133,10 +133,30 @@ No anular suscripciones a boletines de noticias a los que nunca te hayas suscrit
 No abrir ficheros adjuntos de desconocidos.
 
 ### Mantén actualizado el antivirus
-También tenerlo configurado para que analice los correos electrónicos entrantes y mantener copias de seguridad de los archivos más valiosos.
+* Activa las actualizaciones automáticas.
+* Configurarlo para analice los correos electrónicos entrantes y mantener copias de seguridad de los archivos más valiosos.
+* Mantener el sistema operativo actualizado ayuda a que los parches de seguridad del antivirus funcionen sin conflictos.
+* Revisar la vigencia de la licensia, ya que los antivirus caducados dejan de recibir bases de datos de nuevas amenazas.
 
 ### Habilitar los filtros de correo electrónico
-Activar los filtros para que reconozcan los mensajes SPAM, los usuarios deben tomarse el tiempo de marcar los mensajes que no han sido marcados como correos no deseados.
+Activar los filtros para que reconozcan los mensajes SPAM, los usuarios deben tomarse el tiempo de marcar los mensajes que no han sido marcados como correos no deseados. El procedimiento depende del proveedor que se utilice, entre los principales:
+#### Gmail
+1. Ve al icono de Configuración *(engranaje)*
+2. Dar clic en **Ver todos los ajustes**
+3. Dar clic en **Filtros y direcciones bloqueadas**
+4. Desde ahí puedes crear nuevos filtros, editarlos o eliminarlos
+
+#### Outlook
+1. Haz clic derecho sobre un correo electrónico.
+2. Seleccionar **Reglas** y después clic en **Crear regla**
+3. Elegir las condiciones y la acción que se debe realizar *(mover a carpeta, eliminar, etc.)
+4. Dar clic en **Aceptar**
+
+#### Webmail
+1. Buscar la sección de **configuración o ajustes**
+2. Dar clic en la opción **Fight Spam**, **Spam Filter** o **Filtros de correo**
+3. Activar la casilla de habilitar filtros y ajustar el nivel de seguridad deseado.
+4. Guardar los cambios realizados en la opción **Guardar** o **Enviar**.
 
 ### Evitar redes públicas no seguras
 Siempre utilizar una conexión privada o una VPN.
@@ -152,6 +172,8 @@ Los firewalls analizan los correos electrónicos y determinan si un mensaje debe
 2. Si utilizas un dispositivo público, se debe **borrar la memoria caché del navegador, historial y contraseñas.**
 3. Eliminar de la carpeta de descargas archivos no deseados.
 4. Usar navegadores que permitan **modificar las condiciones de privacidad.**
+5. Implementar el hábito de verificar la configuración de tu cuenta para **cerrar sesiones** en dispositivos antiguos o revocar permisos de aplicaciones de terceros que ya no uses.
+6. Manten actualizados tu número celular y un correo alternativo para poder recuperar tu correo principal.
 
 Si necesitas saber más sobre este tema, sigue el siguiente enlace para ver más detalles: 
 
