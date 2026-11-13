@@ -130,7 +130,11 @@ No anular suscripciones a boletines de noticias a los que nunca te hayas suscrit
 ## 5. Consejos para evitar el malware
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4tqdHG_8uuHPqntoDFUzTvSzw0GKqeMPomXqBmUIolw&s=10)
 ### Cuidado con los ficheros adjuntos
-No abrir ficheros adjuntos de desconocidos.
+No abrir ficheros adjuntos de desconocidos. Es la manera más usada para la entrada de malware y ciberataques, entre los más comunes:
+* **Troyanos, Virus y Gusanos:** se instalan en segundo plano sin que lo notes. Los atacantes pueden tomar control del equipo, registrar pulsasiones del teclado o propagarse a otros dispositivos conectados a la misma red local.
+* Algunos archivos adjuntos ejecutan **scripts** que cifran los archivos del disco duro (**Ramsonware**), los atacantes exigen recompensa para devolver el acceso a tu información.
+* **Robo de credenciales y sesiones** mediante el uso de macros maliciosaso archivos HTML adjuntos que extraen contraseñas guardadas en ordenadores o robar *cookies* de sesion para acceder a cuentas bancarias sin necesidad de usar tu contraseña.
+* **Exploits:** Incluso formatos que no son ejecutables directos pueden contener código diseñado para aprovechar fallos de seguridad en el programa que los abre y ejecutar códigos en el sistema.
 
 ### Mantén actualizado el antivirus
 * Activa las actualizaciones automáticas.
@@ -159,21 +163,32 @@ Activar los filtros para que reconozcan los mensajes SPAM, los usuarios deben to
 4. Guardar los cambios realizados en la opción **Guardar** o **Enviar**.
 
 ### Evitar redes públicas no seguras
-Siempre utilizar una conexión privada o una VPN.
+Estas redes, al carecer de un cifrado sólido o ser abiertas, cualquier usuario conectado a esa misma red puede interceptar el tráfico que se envía y se recibe. Entre los principales riesgos tenemos:
+
+* Ataques **Man-in-the-Middle:** Usando técnicas como *ARP Spoofing*, el atacante puede interponerse entre tu dispositivo y el router para que todo el tráfico de datos pase por su ordenador antes de salir a internet. 
+* **Evil Twin:** Los ciberdelincuentes crean puntos de acceso falsos con nombres identicos a una red Wifi abierta de un establecimiento (Caffe_Wifi frente a CaffeWifi). Cuando tu dispositivo se conecta, el atacante controla tu conexión y puede redirigirte a páginas falsas para robar tus credenciales.
+* Secuestro de sesión **(Session Hijacking):** Si accedes a servicios que no portegen adecuadamente sus cookies de sesion, un atacante puede capturar ese identificador de sesion y suplantar tu identidad sin necesidad de conocer tu usuario o contraseña.
 
 ### Tener siempre activo el Firewall
-Los firewalls analizan los correos electrónicos y determinan si un mensaje debe ser marcado como spam o no.
+Los firewalls analizan los correos electrónicos y determinan si un mensaje debe ser marcado como spam o no, y entre otras funciones:
+
+* Bloquear accesos no autorizados.
+* Controla que programas salen a internet.
+* Evitan la filtración de datos.
+* Protegen al equipo en redes compartidas o públicas.
+* Detectan y registran actividad sospechosa.
 
 ---
 
 ## 6. Consejos para el uso del correo en la web 
 ![NAVEGAR](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxbZJ40ovHhfb6pF8G0LS9ls_ox_7mVpaOfbY25G05Ow&s=10)
 1. Cerrar siempre la sesión antes de cerrar el navegador.
-2. Si utilizas un dispositivo público, se debe **borrar la memoria caché del navegador, historial y contraseñas.**
-3. Eliminar de la carpeta de descargas archivos no deseados.
-4. Usar navegadores que permitan **modificar las condiciones de privacidad.**
-5. Implementar el hábito de verificar la configuración de tu cuenta para **cerrar sesiones** en dispositivos antiguos o revocar permisos de aplicaciones de terceros que ya no uses.
-6. Manten actualizados tu número celular y un correo alternativo para poder recuperar tu correo principal.
+2. Eliminar de la carpeta de descargas archivos no deseados.
+3. Usar navegadores que permitan **modificar las condiciones de privacidad.**
+4. Implementar el hábito de verificar la configuración de tu cuenta para **cerrar sesiones** en dispositivos antiguos o revocar permisos de aplicaciones de terceros que ya no uses.
+5. Manten actualizados tu número celular y un correo alternativo para poder recuperar tu correo principal.
+6. Siempre utilizar una conexión privada o una VPN.
+7. Si utilizas un dispositivo público, se debe **borrar la memoria caché del navegador, historial y contraseñas.**
 
 Si necesitas saber más sobre este tema, sigue el siguiente enlace para ver más detalles: 
 
