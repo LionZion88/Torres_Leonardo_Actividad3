@@ -193,4 +193,11 @@ Los firewalls analizan los correos electrónicos y determinan si un mensaje debe
 Si necesitas saber más sobre este tema, sigue el siguiente enlace para ver más detalles: 
 
 [El texto de protección de datos en un e-mail](https://protecciondatos-lopd.com/empresas/ley-correo-electronico-texto-lopd-rgpd/)
+
+---
+
+## Información del proyecto
+Esta documentación se ha elaborado utilizando Markdown.
+El control de versiones se realiza mediante Git y el repositorio remoto se encuentra alojado en Github.
+
 ---
