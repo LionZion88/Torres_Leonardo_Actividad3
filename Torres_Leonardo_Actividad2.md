@@ -28,6 +28,8 @@
 - [Cuidado con los ficheros adjuntos](#cuidado-con-los-ficheros-adjuntos)
 - [Mantén actualizado el antivirus](#mantén-actualizado-el-antivirus)
 - [Habilitar los filtros de correo electrónico](#habilitar-los-filtros-de-correo-electrónico)
+- [Evitar redes públicas no seguras](#evitar-redes-públicas-no-seguras)
+- [Tener siempre activo el Firewall](#tener-siempre-activo-el-firewall)
 
 [6. Consejos para el uso del correo en la web](#6-consejos-para-el-uso-del-correo-en-la-web)
 
@@ -135,6 +137,12 @@ También tenerlo configurado para que analice los correos electrónicos entrante
 
 ### Habilitar los filtros de correo electrónico
 Activar los filtros para que reconozcan los mensajes SPAM, los usuarios deben tomarse el tiempo de marcar los mensajes que no han sido marcados como correos no deseados.
+
+### Evitar redes públicas no seguras
+Siempre utilizar una conexión privada o una VPN.
+
+### Tener siempre activo el Firewall
+Los firewalls analizan los correos electrónicos y determinan si un mensaje debe ser marcado como spam o no.
 
 ---
 
