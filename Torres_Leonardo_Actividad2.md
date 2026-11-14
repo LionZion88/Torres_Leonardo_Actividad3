@@ -201,3 +201,11 @@ Esta documentación se ha elaborado utilizando Markdown.
 El control de versiones se realiza mediante Git y el repositorio remoto se encuentra alojado en Github.
 
 ---
+
+## Próximas mejoras
+* Añadir más fuentes bibliográficas.
+* Mejorar imágenes.
+* Estructurar mejor la información del índice.
+* Eliminar información redundante.
+
+---
