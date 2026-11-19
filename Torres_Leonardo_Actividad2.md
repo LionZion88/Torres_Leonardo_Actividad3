@@ -209,3 +209,11 @@ El control de versiones se realiza mediante Git y el repositorio remoto se encue
 * Eliminar información redundante.
 
 ---
+
+## Recomendaciones de seguridad 
+
+1. Activar la autenticación en dos pasos (2FA / MFA) como una aplicación autenticadora (Google Authenticator) o una llave física (FIDO2).
+2. Inspecciona el remitente real y los enlaces antes de actuar.
+3. Desconfiar de la urgencia artificial y las peticiones inusuales.
+4. Precaución extrema con archivos adjuntos.
+
